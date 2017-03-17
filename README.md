@@ -1,11 +1,8 @@
 # B-plus-Tree-Indexing
 
 Authors:
- /*
- * 		Deepak Shanmugam
-      Chandra Sekhar Guntupalli
- *
- */
+Deepak Shanmugam
+Chandra Sekhar Guntupalli
  
 Description of the program:
   This program that implements B+ tree indexing reads a text file containing data and build the index, treating the first 15 columns as the key.
