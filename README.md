@@ -1,4 +1,4 @@
-# B-plus-Tree-Indexing
+# Replication-of-Database-operations-using-B-plus-Tree-Indexing
 
 Authors:
 Deepak Shanmugam, Chandra Sekhar Guntupalli
