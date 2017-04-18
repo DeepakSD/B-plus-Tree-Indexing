@@ -21,11 +21,11 @@ This program does the following functions:
 4.Listing sequential records 
 
 
-# How to compile:
+## How to compile:
 
 		g++ -o INDEX BPlusIndexing.cpp
 
-# How to execute:
+## How to execute:
 
 1) To create Index:
 
