@@ -4,7 +4,7 @@ Authors:
 Deepak Shanmugam, Chandra Sekhar Guntupalli
  
  
-#Description of the program:
+# Description of the program:
 
   This program that implements B+ tree indexing reads a text file containing data and build the index, treating the first 15 columns as the key.
 
@@ -21,11 +21,11 @@ This program does the following functions:
 4.Listing sequential records 
 
 
-#How to compile:
+# How to compile:
 
 		g++ -o INDEX BPlusIndexing.cpp
 
-#How to execute:
+# How to execute:
 
 1) To create Index:
 
